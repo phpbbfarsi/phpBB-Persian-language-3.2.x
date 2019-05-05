@@ -3,7 +3,7 @@
 *
 * phpBB 3.2.X Project - Persian Translation
 * Translators: PHP-BB.IR Group Meis@M Nobari
-* Version: 3.2.6 
+* Version: 3.2.7 
 *
 * @copyright (c) phpBB Limited <https://www.phpbb.com>
 * @license GNU General Public License, version 2 (GPL-2.0)
