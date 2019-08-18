@@ -100,6 +100,7 @@ $lang = array_merge($lang, array(
 	'FORUM_LINK_TRACK_EXPLAIN'			=> 'تعداد دفعات انتقال مسیر رل ذخیره می کند.',
 	'FORUM_NAME'						=> 'نام انجمن',
 	'FORUM_NAME_EMPTY'					=> 'باید نامی را برای این انجمن وارد کنید.',
+	'FORUM_NAME_EMOJI'					=> 'نام انجمن وارد شده نامعتبر است<br> حاوی کاراکترهای غیر مجاز<br>%s',
 	'FORUM_PARENT'						=> 'انجمن ریشه',
 	'FORUM_PASSWORD'					=> 'کلمه عبور انجمن',
 	'FORUM_PASSWORD_CONFIRM'			=> 'تایید کلمه عبور انجمن',
