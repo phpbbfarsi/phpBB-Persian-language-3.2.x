@@ -3,7 +3,7 @@
 *
 * phpBB 3.2.X Project - Persian Translation
 * Translators: PHP-BB.IR Group Meis@M Nobari
-* Version: 3.2.8 
+* Version: 3.2.7 
 *
 * @copyright (c) phpBB Limited <https://www.phpbb.com>
 * @license GNU General Public License, version 2 (GPL-2.0)
@@ -93,7 +93,7 @@ $lang = array_merge($lang, array(
 	'ATTACHED_IMAGE_NOT_IMAGE'		=> 'تصویر پیوست شده اعتبار ندارد.',
 	'AUTHOR'						=> 'نویسنده',
 	'AUTH_NO_PROFILE_CREATED'		=> 'ایجاد مشخصات کاربر ناموفق بود.',
-	'AUTH_PROVIDER_OAUTH_ERROR_ALREADY_LINKED'				=> 'در حال حاضر سرویس خارجی موجود به حساب کاربری دیگری متصل شده است.',
+	'AUTH_PROVIDER_OAUTH_ERROR_ALREADY_LINKED'				=> 'این اکانت به کاربر دیگری متصل شده است.',
 	'AUTH_PROVIDER_OAUTH_ERROR_INVALID_ENTRY'				=> 'ورود به پایگاه داده با مشکل مواجه شده است.',
 	'AUTH_PROVIDER_OAUTH_ERROR_INVALID_SERVICE_TYPE'		=> 'سرویس راه دور مجاز نیست.',
 	'AUTH_PROVIDER_OAUTH_ERROR_SERVICE_NOT_CREATED'			=> 'سرویس ورود راه دور ساخته نشد.',
